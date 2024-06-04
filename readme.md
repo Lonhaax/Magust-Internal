@@ -1,6 +1,7 @@
 ### PC Only
 # Magust Internal
 * Growtopia version: 4.57
+* https://github.com/Lonhaax/Magust-Internal/releases/tag/growtopia
 
 
 # Changelog
